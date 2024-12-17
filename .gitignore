@@ -4,5 +4,4 @@ __pycache__/
 *.out
 build/
 *.ipynb_checkpoints
-*.csv
 *.env
