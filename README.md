@@ -14,7 +14,7 @@ This project was developed for the 2024 METIL Quickstart Intership for the US De
 ### Installation
 1. Clone the repository:
 
-    ```git clone https://github.com/your-username/your-repo.git```
+    ```git clone https://github.com/JustinMorera/METIL-Quickstart-Internship.git```
 
 2. Install dependencies:
 
